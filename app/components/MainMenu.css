@@ -1,0 +1,25 @@
+.container {
+}
+
+.item {
+  display: block;
+  height: 50px;
+  background-color: #1C2B36;
+  line-height: 50px;
+  border-left: 3px solid #1C2B36;
+}
+
+.item:hover {
+  border-left: 3px solid #CE4E4C;
+}
+
+.item strong {
+  font-size: 1.2rem;
+  text-align: center;
+  padding-left: 5px;
+}
+
+.item span {
+  padding-left: 15px;
+  font-size: .8rem;
+}

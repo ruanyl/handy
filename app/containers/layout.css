@@ -1,0 +1,13 @@
+.menu {
+  float: left;
+  width: 200px;
+  height: 100vh;
+  background-color: #0C1820;
+}
+
+.hosts {
+  float: left;
+  width: 200px;
+  height: 100vh;
+  background-color: #fff;
+}
